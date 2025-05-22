@@ -25,7 +25,6 @@ This folder contains the solution for reversing a singly linked list. The proble
  *     int val;
  *     struct ListNode *next;
  * };
- * test
  */
 struct ListNode* reverseList(struct ListNode* head) {
     struct ListNode* tail = NULL;

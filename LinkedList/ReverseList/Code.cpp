@@ -7,7 +7,6 @@
  *     int val;
  *     struct ListNode *next;
  * };
- * test
  */
 struct ListNode* reverseList(struct ListNode* head) {
     struct ListNode* tail = NULL;
