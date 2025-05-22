@@ -1,6 +1,5 @@
 ## Solution
 
-```cpp
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -28,5 +27,3 @@ struct ListNode* reverseList(struct ListNode* head) {
     }
     return head;
 }
-
-```

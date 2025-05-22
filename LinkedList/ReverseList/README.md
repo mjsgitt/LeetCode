@@ -18,7 +18,6 @@ This folder contains the solution for reversing a singly linked list. The proble
 ```cpp
 ## Solution
 
-```cpp
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -46,7 +45,5 @@ struct ListNode* reverseList(struct ListNode* head) {
     }
     return head;
 }
-
-```
 ```
 <!-- CODE_END -->
