@@ -1,4 +1,4 @@
-# YOUR_FOLDER_NAME_PLACEHOLDER
+# LeetCode
 
 This section provides an overview and visual aid for this problem.
 
