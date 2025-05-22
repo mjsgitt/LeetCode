@@ -1,3 +1,6 @@
+## Solution
+
+```cpp
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -5,7 +8,6 @@
  *     struct ListNode *next;
  * };
  */
-```cpp
 struct ListNode* reverseList(struct ListNode* head) {
     struct ListNode* tail = NULL;
     struct ListNode* taild = NULL;
@@ -26,4 +28,3 @@ struct ListNode* reverseList(struct ListNode* head) {
     }
     return head;
 }
-\```
