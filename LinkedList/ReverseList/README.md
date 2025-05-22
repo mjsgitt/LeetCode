@@ -5,13 +5,13 @@ This section provides an overview and visual aid for this problem.
 <details>
 <summary>Click to view the Approach Diagram</summary>
 <br/>
+
 ![Approach Diagram](image/approach.png)
+
 </details>
 
 ### Description
-
-*(You can add a description of the problem solved in this folder here, e.g., "This folder contains the solution for reversing a singly linked list.")*
+This folder contains the solution for reversing a singly linked list. The problem involves reversing the direction of pointers in a linked list so that the last node becomes the first node and vice versa.
 
 ### Code
-
-*(You can link to your code file here, e.g., `[Code.cpp](Code.cpp)`)*
+[Code.cpp](Code.cpp)
