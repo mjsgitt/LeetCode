@@ -1,4 +1,4 @@
-# YOUR_FOLDER_NAME_PLACEHOLDER
+# ReverseList
 
 This section provides an overview and visual aid for this problem.
 
@@ -10,8 +10,6 @@ This section provides an overview and visual aid for this problem.
 
 ### Description
 
-*(You can add a description of the problem solved in this folder here, e.g., "This folder contains the solution for reversing a singly linked list.")*
-*(You can add a description of the problem solved in this folder here, e.g., "This folder contains the solution for reversing a singly linked list.")*
 *(You can add a description of the problem solved in this folder here, e.g., "This folder contains the solution for reversing a singly linked list.")*
 
 
