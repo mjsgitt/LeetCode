@@ -1,4 +1,4 @@
-# ReverseList
+# PartitionList
 
 This section provides an overview and visual aid for this problem.
 
